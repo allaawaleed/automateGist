@@ -24,4 +24,4 @@ The solution includes:
 * Log4j: Used for logging.
 * Testing: Used for test annotations, asserting on the results and parallel execution. 
 * Maven-surefire-plugin: used for configuring the suite XML and parametrised variables through the command line.
-* Maven-compiler-plugin: used to compile the project to version 1.7 because it will not work for 1.5 because of multiple catch exceptions.
+* Maven-compiler-plugin: used to compile the project to version 1.8 because it will not work for 1.5 because of multiple catch exceptions.
